@@ -38,7 +38,8 @@ export const dateLabel = (days: number, year = false) => new Date(`${dateAt(days
 export const planningWeek = `${dateLabel(0)}–${new Date(`${dateAt(6)}T00:00:00Z`).getUTCDate()}, ${new Date(`${AS_OF}T00:00:00Z`).getUTCFullYear()}`;
 export const units = (n: number) => new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 }).format(n);
 export const money = (n: number) => new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 }).format(n);
-export const pct = (n: number) => `${n > 0 ? "+" : ""}${(n * 100).toFixed(0)}%`;
+export const percent = (n: number) => `${new Intl.NumberFormat("en-US", { maximumFractionDigits: 1 }).format(n * 100)}%`;
+export const pct = (n: number) => `${n > 0 ? "+" : ""}${percent(n)}`;
 export const incomingFor = (sku: Sku) => orders.filter(o => o.skuId === sku.id).reduce((n, o) => n + o.units, 0);
 export function defaultScenario(sku: Sku): ScenarioInput {
   const promo = events.find(e => e.kind === "promotion")!;
