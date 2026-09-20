@@ -1,0 +1,2810 @@
+[
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -78,
+    "actual": 1002,
+    "priorForecast": 959
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -77,
+    "actual": 981,
+    "priorForecast": 976
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -76,
+    "actual": 1018,
+    "priorForecast": 994
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -75,
+    "actual": 1027,
+    "priorForecast": 1013
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -74,
+    "actual": 1063,
+    "priorForecast": 1032
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -73,
+    "actual": 1018,
+    "priorForecast": 1051
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -72,
+    "actual": 1073,
+    "priorForecast": 1069
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -71,
+    "actual": 1089,
+    "priorForecast": 1088
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -70,
+    "actual": 1077,
+    "priorForecast": 1105
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -69,
+    "actual": 1168,
+    "priorForecast": 1122
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -68,
+    "actual": 1110,
+    "priorForecast": 1137
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -67,
+    "actual": 1124,
+    "priorForecast": 1151
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -66,
+    "actual": 1188,
+    "priorForecast": 1164
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -65,
+    "actual": 1188,
+    "priorForecast": 1175
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -64,
+    "actual": 1237,
+    "priorForecast": 1183
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -63,
+    "actual": 1238,
+    "priorForecast": 1190
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -62,
+    "actual": 1251,
+    "priorForecast": 1195
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -61,
+    "actual": 1172,
+    "priorForecast": 1198
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -60,
+    "actual": 1212,
+    "priorForecast": 1199
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -59,
+    "actual": 1219,
+    "priorForecast": 1197
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -58,
+    "actual": 1157,
+    "priorForecast": 1193
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -57,
+    "actual": 1241,
+    "priorForecast": 1188
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -56,
+    "actual": 1178,
+    "priorForecast": 1180
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -55,
+    "actual": 1166,
+    "priorForecast": 1171
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -54,
+    "actual": 1207,
+    "priorForecast": 1160
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -53,
+    "actual": 1121,
+    "priorForecast": 1147
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -52,
+    "actual": 1168,
+    "priorForecast": 1133
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -51,
+    "actual": 1071,
+    "priorForecast": 1118
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -50,
+    "actual": 1101,
+    "priorForecast": 1103
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -49,
+    "actual": 1056,
+    "priorForecast": 1086
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -48,
+    "actual": 1064,
+    "priorForecast": 1070
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -47,
+    "actual": 1020,
+    "priorForecast": 1053
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -46,
+    "actual": 1014,
+    "priorForecast": 1037
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -45,
+    "actual": 979,
+    "priorForecast": 1021
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -44,
+    "actual": 1026,
+    "priorForecast": 1006
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -43,
+    "actual": 977,
+    "priorForecast": 991
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -42,
+    "actual": 936,
+    "priorForecast": 978
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -41,
+    "actual": 1012,
+    "priorForecast": 967
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -40,
+    "actual": 981,
+    "priorForecast": 957
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -39,
+    "actual": 916,
+    "priorForecast": 949
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -38,
+    "actual": 927,
+    "priorForecast": 943
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -37,
+    "actual": 961,
+    "priorForecast": 938
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -36,
+    "actual": 891,
+    "priorForecast": 936
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -35,
+    "actual": 929,
+    "priorForecast": 936
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -34,
+    "actual": 905,
+    "priorForecast": 939
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -33,
+    "actual": 933,
+    "priorForecast": 943
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -32,
+    "actual": 942,
+    "priorForecast": 950
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -31,
+    "actual": 922,
+    "priorForecast": 959
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -30,
+    "actual": 964,
+    "priorForecast": 970
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -29,
+    "actual": 1019,
+    "priorForecast": 983
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -28,
+    "actual": 979,
+    "priorForecast": 997
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -27,
+    "actual": 987,
+    "priorForecast": 1013
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -26,
+    "actual": 996,
+    "priorForecast": 1030
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -25,
+    "actual": 1036,
+    "priorForecast": 1049
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -24,
+    "actual": 1033,
+    "priorForecast": 1068
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -23,
+    "actual": 1128,
+    "priorForecast": 1088
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -22,
+    "actual": 1057,
+    "priorForecast": 1108
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -21,
+    "actual": 1101,
+    "priorForecast": 1128
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -20,
+    "actual": 1107,
+    "priorForecast": 1148
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -19,
+    "actual": 1223,
+    "priorForecast": 1167
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -18,
+    "actual": 1202,
+    "priorForecast": 1186
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -17,
+    "actual": 1170,
+    "priorForecast": 1204
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -16,
+    "actual": 1259,
+    "priorForecast": 1220
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -15,
+    "actual": 1253,
+    "priorForecast": 1235
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -14,
+    "actual": 1294,
+    "priorForecast": 1249
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -13,
+    "actual": 958,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -12,
+    "actual": 930,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -11,
+    "actual": 931,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -10,
+    "actual": 991,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -9,
+    "actual": 944,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -8,
+    "actual": 920,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -7,
+    "actual": 937,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -6,
+    "actual": 984,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -5,
+    "actual": 943,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -4,
+    "actual": 951,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -3,
+    "actual": 1140,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -2,
+    "actual": 1140,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "citrus-vodka-soda",
+    "weekOffset": -1,
+    "actual": 1140,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -78,
+    "actual": 800,
+    "priorForecast": 774
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -77,
+    "actual": 803,
+    "priorForecast": 788
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -76,
+    "actual": 787,
+    "priorForecast": 803
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -75,
+    "actual": 843,
+    "priorForecast": 818
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -74,
+    "actual": 806,
+    "priorForecast": 833
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -73,
+    "actual": 882,
+    "priorForecast": 848
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -72,
+    "actual": 881,
+    "priorForecast": 863
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -71,
+    "actual": 893,
+    "priorForecast": 878
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -70,
+    "actual": 921,
+    "priorForecast": 892
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -69,
+    "actual": 895,
+    "priorForecast": 905
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -68,
+    "actual": 963,
+    "priorForecast": 918
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -67,
+    "actual": 884,
+    "priorForecast": 929
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -66,
+    "actual": 947,
+    "priorForecast": 939
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -65,
+    "actual": 958,
+    "priorForecast": 948
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -64,
+    "actual": 993,
+    "priorForecast": 955
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -63,
+    "actual": 925,
+    "priorForecast": 961
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -62,
+    "actual": 945,
+    "priorForecast": 965
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -61,
+    "actual": 920,
+    "priorForecast": 967
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -60,
+    "actual": 989,
+    "priorForecast": 967
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -59,
+    "actual": 958,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -58,
+    "actual": 970,
+    "priorForecast": 963
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -57,
+    "actual": 1004,
+    "priorForecast": 958
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -56,
+    "actual": 918,
+    "priorForecast": 952
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -55,
+    "actual": 940,
+    "priorForecast": 945
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -54,
+    "actual": 965,
+    "priorForecast": 936
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -53,
+    "actual": 967,
+    "priorForecast": 926
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -52,
+    "actual": 948,
+    "priorForecast": 915
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -51,
+    "actual": 885,
+    "priorForecast": 903
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -50,
+    "actual": 898,
+    "priorForecast": 890
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -49,
+    "actual": 834,
+    "priorForecast": 877
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -48,
+    "actual": 880,
+    "priorForecast": 863
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -47,
+    "actual": 865,
+    "priorForecast": 850
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -46,
+    "actual": 802,
+    "priorForecast": 837
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -45,
+    "actual": 864,
+    "priorForecast": 824
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -44,
+    "actual": 803,
+    "priorForecast": 812
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -43,
+    "actual": 786,
+    "priorForecast": 800
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -42,
+    "actual": 811,
+    "priorForecast": 790
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -41,
+    "actual": 749,
+    "priorForecast": 780
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -40,
+    "actual": 741,
+    "priorForecast": 772
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -39,
+    "actual": 761,
+    "priorForecast": 766
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -38,
+    "actual": 753,
+    "priorForecast": 761
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -37,
+    "actual": 772,
+    "priorForecast": 757
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -36,
+    "actual": 784,
+    "priorForecast": 756
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -35,
+    "actual": 770,
+    "priorForecast": 756
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -34,
+    "actual": 720,
+    "priorForecast": 758
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -33,
+    "actual": 750,
+    "priorForecast": 761
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -32,
+    "actual": 791,
+    "priorForecast": 767
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -31,
+    "actual": 768,
+    "priorForecast": 774
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -30,
+    "actual": 745,
+    "priorForecast": 783
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -29,
+    "actual": 789,
+    "priorForecast": 793
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -28,
+    "actual": 818,
+    "priorForecast": 805
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -27,
+    "actual": 855,
+    "priorForecast": 818
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -26,
+    "actual": 827,
+    "priorForecast": 831
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -25,
+    "actual": 888,
+    "priorForecast": 846
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -24,
+    "actual": 841,
+    "priorForecast": 862
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -23,
+    "actual": 837,
+    "priorForecast": 878
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -22,
+    "actual": 906,
+    "priorForecast": 894
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -21,
+    "actual": 876,
+    "priorForecast": 910
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -20,
+    "actual": 951,
+    "priorForecast": 926
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -19,
+    "actual": 958,
+    "priorForecast": 942
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -18,
+    "actual": 913,
+    "priorForecast": 957
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -17,
+    "actual": 950,
+    "priorForecast": 972
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -16,
+    "actual": 972,
+    "priorForecast": 985
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -15,
+    "actual": 968,
+    "priorForecast": 997
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -14,
+    "actual": 1049,
+    "priorForecast": 1008
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -13,
+    "actual": 946,
+    "priorForecast": 939
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -12,
+    "actual": 912,
+    "priorForecast": 919
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -11,
+    "actual": 918,
+    "priorForecast": 900
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -10,
+    "actual": 927,
+    "priorForecast": 899
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -9,
+    "actual": 917,
+    "priorForecast": 917
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -8,
+    "actual": 907,
+    "priorForecast": 938
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -7,
+    "actual": 930,
+    "priorForecast": 942
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -6,
+    "actual": 908,
+    "priorForecast": 926
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -5,
+    "actual": 902,
+    "priorForecast": 904
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -4,
+    "actual": 908,
+    "priorForecast": 897
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -3,
+    "actual": 913,
+    "priorForecast": 911
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -2,
+    "actual": 938,
+    "priorForecast": 933
+  },
+  {
+    "skuId": "lime-vodka-soda",
+    "weekOffset": -1,
+    "actual": 957,
+    "priorForecast": 943
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -78,
+    "actual": 785,
+    "priorForecast": 783
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -77,
+    "actual": 833,
+    "priorForecast": 797
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -76,
+    "actual": 797,
+    "priorForecast": 811
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -75,
+    "actual": 836,
+    "priorForecast": 826
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -74,
+    "actual": 813,
+    "priorForecast": 842
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -73,
+    "actual": 843,
+    "priorForecast": 857
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -72,
+    "actual": 859,
+    "priorForecast": 872
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -71,
+    "actual": 886,
+    "priorForecast": 887
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -70,
+    "actual": 891,
+    "priorForecast": 902
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -69,
+    "actual": 955,
+    "priorForecast": 915
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -68,
+    "actual": 899,
+    "priorForecast": 928
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -67,
+    "actual": 973,
+    "priorForecast": 939
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -66,
+    "actual": 909,
+    "priorForecast": 949
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -65,
+    "actual": 991,
+    "priorForecast": 958
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -64,
+    "actual": 1002,
+    "priorForecast": 965
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -63,
+    "actual": 1018,
+    "priorForecast": 971
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -62,
+    "actual": 998,
+    "priorForecast": 975
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -61,
+    "actual": 1013,
+    "priorForecast": 977
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -60,
+    "actual": 939,
+    "priorForecast": 978
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -59,
+    "actual": 950,
+    "priorForecast": 977
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -58,
+    "actual": 935,
+    "priorForecast": 974
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -57,
+    "actual": 982,
+    "priorForecast": 969
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -56,
+    "actual": 986,
+    "priorForecast": 963
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -55,
+    "actual": 942,
+    "priorForecast": 955
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -54,
+    "actual": 945,
+    "priorForecast": 946
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -53,
+    "actual": 930,
+    "priorForecast": 936
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -52,
+    "actual": 940,
+    "priorForecast": 924
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -51,
+    "actual": 870,
+    "priorForecast": 912
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -50,
+    "actual": 877,
+    "priorForecast": 900
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -49,
+    "actual": 871,
+    "priorForecast": 886
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -48,
+    "actual": 869,
+    "priorForecast": 873
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -47,
+    "actual": 879,
+    "priorForecast": 859
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -46,
+    "actual": 815,
+    "priorForecast": 846
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -45,
+    "actual": 812,
+    "priorForecast": 833
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -44,
+    "actual": 783,
+    "priorForecast": 820
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -43,
+    "actual": 831,
+    "priorForecast": 809
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -42,
+    "actual": 800,
+    "priorForecast": 798
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -41,
+    "actual": 802,
+    "priorForecast": 789
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -40,
+    "actual": 777,
+    "priorForecast": 781
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -39,
+    "actual": 739,
+    "priorForecast": 774
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -38,
+    "actual": 783,
+    "priorForecast": 769
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -37,
+    "actual": 751,
+    "priorForecast": 765
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -36,
+    "actual": 749,
+    "priorForecast": 764
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -35,
+    "actual": 776,
+    "priorForecast": 764
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -34,
+    "actual": 739,
+    "priorForecast": 766
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -33,
+    "actual": 788,
+    "priorForecast": 770
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -32,
+    "actual": 811,
+    "priorForecast": 775
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -31,
+    "actual": 817,
+    "priorForecast": 782
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -30,
+    "actual": 797,
+    "priorForecast": 791
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -29,
+    "actual": 839,
+    "priorForecast": 802
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -28,
+    "actual": 801,
+    "priorForecast": 813
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -27,
+    "actual": 865,
+    "priorForecast": 826
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -26,
+    "actual": 823,
+    "priorForecast": 841
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -25,
+    "actual": 813,
+    "priorForecast": 856
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -24,
+    "actual": 859,
+    "priorForecast": 871
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -23,
+    "actual": 922,
+    "priorForecast": 887
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -22,
+    "actual": 913,
+    "priorForecast": 904
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -21,
+    "actual": 942,
+    "priorForecast": 920
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -20,
+    "actual": 900,
+    "priorForecast": 937
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -19,
+    "actual": 908,
+    "priorForecast": 952
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -18,
+    "actual": 1003,
+    "priorForecast": 968
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -17,
+    "actual": 992,
+    "priorForecast": 982
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -16,
+    "actual": 1035,
+    "priorForecast": 995
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -15,
+    "actual": 982,
+    "priorForecast": 1008
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -14,
+    "actual": 1035,
+    "priorForecast": 1019
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -13,
+    "actual": 1068,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -12,
+    "actual": 1150,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -11,
+    "actual": 1108,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -10,
+    "actual": 1118,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -9,
+    "actual": 1149,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -8,
+    "actual": 1139,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -7,
+    "actual": 1100,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -6,
+    "actual": 1149,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -5,
+    "actual": 1116,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -4,
+    "actual": 930,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -3,
+    "actual": 930,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -2,
+    "actual": 930,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "berry-vodka-soda",
+    "weekOffset": -1,
+    "actual": 930,
+    "priorForecast": 1120
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -78,
+    "actual": 861,
+    "priorForecast": 867
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -77,
+    "actual": 908,
+    "priorForecast": 882
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -76,
+    "actual": 904,
+    "priorForecast": 898
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -75,
+    "actual": 947,
+    "priorForecast": 915
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -74,
+    "actual": 965,
+    "priorForecast": 932
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -73,
+    "actual": 955,
+    "priorForecast": 949
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -72,
+    "actual": 982,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -71,
+    "actual": 946,
+    "priorForecast": 983
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -70,
+    "actual": 985,
+    "priorForecast": 999
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -69,
+    "actual": 971,
+    "priorForecast": 1014
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -68,
+    "actual": 1057,
+    "priorForecast": 1027
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -67,
+    "actual": 993,
+    "priorForecast": 1040
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -66,
+    "actual": 1074,
+    "priorForecast": 1051
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -65,
+    "actual": 1065,
+    "priorForecast": 1061
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -64,
+    "actual": 1050,
+    "priorForecast": 1069
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -63,
+    "actual": 1101,
+    "priorForecast": 1076
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -62,
+    "actual": 1045,
+    "priorForecast": 1080
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -61,
+    "actual": 1093,
+    "priorForecast": 1082
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -60,
+    "actual": 1065,
+    "priorForecast": 1083
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -59,
+    "actual": 1078,
+    "priorForecast": 1082
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -58,
+    "actual": 1067,
+    "priorForecast": 1078
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -57,
+    "actual": 1126,
+    "priorForecast": 1073
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -56,
+    "actual": 1037,
+    "priorForecast": 1066
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -55,
+    "actual": 1022,
+    "priorForecast": 1058
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -54,
+    "actual": 1062,
+    "priorForecast": 1048
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -53,
+    "actual": 995,
+    "priorForecast": 1036
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -52,
+    "actual": 1034,
+    "priorForecast": 1024
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -51,
+    "actual": 1058,
+    "priorForecast": 1010
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -50,
+    "actual": 963,
+    "priorForecast": 996
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -49,
+    "actual": 981,
+    "priorForecast": 982
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -48,
+    "actual": 965,
+    "priorForecast": 967
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -47,
+    "actual": 925,
+    "priorForecast": 952
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -46,
+    "actual": 941,
+    "priorForecast": 937
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -45,
+    "actual": 956,
+    "priorForecast": 922
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -44,
+    "actual": 933,
+    "priorForecast": 909
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -43,
+    "actual": 861,
+    "priorForecast": 896
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -42,
+    "actual": 897,
+    "priorForecast": 884
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -41,
+    "actual": 898,
+    "priorForecast": 874
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -40,
+    "actual": 828,
+    "priorForecast": 865
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -39,
+    "actual": 828,
+    "priorForecast": 857
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -38,
+    "actual": 871,
+    "priorForecast": 852
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -37,
+    "actual": 856,
+    "priorForecast": 848
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -36,
+    "actual": 861,
+    "priorForecast": 846
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -35,
+    "actual": 885,
+    "priorForecast": 846
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -34,
+    "actual": 857,
+    "priorForecast": 848
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -33,
+    "actual": 879,
+    "priorForecast": 852
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -32,
+    "actual": 846,
+    "priorForecast": 858
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -31,
+    "actual": 898,
+    "priorForecast": 866
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -30,
+    "actual": 874,
+    "priorForecast": 876
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -29,
+    "actual": 861,
+    "priorForecast": 888
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -28,
+    "actual": 867,
+    "priorForecast": 901
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -27,
+    "actual": 907,
+    "priorForecast": 915
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -26,
+    "actual": 909,
+    "priorForecast": 931
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -25,
+    "actual": 987,
+    "priorForecast": 947
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -24,
+    "actual": 997,
+    "priorForecast": 965
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -23,
+    "actual": 1004,
+    "priorForecast": 983
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -22,
+    "actual": 951,
+    "priorForecast": 1001
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -21,
+    "actual": 1036,
+    "priorForecast": 1019
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -20,
+    "actual": 1005,
+    "priorForecast": 1037
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -19,
+    "actual": 1018,
+    "priorForecast": 1055
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -18,
+    "actual": 1075,
+    "priorForecast": 1072
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -17,
+    "actual": 1140,
+    "priorForecast": 1088
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -16,
+    "actual": 1067,
+    "priorForecast": 1103
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -15,
+    "actual": 1154,
+    "priorForecast": 1116
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -14,
+    "actual": 1171,
+    "priorForecast": 1128
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -13,
+    "actual": 1053,
+    "priorForecast": 1051
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -12,
+    "actual": 1053,
+    "priorForecast": 1029
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -11,
+    "actual": 986,
+    "priorForecast": 1008
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -10,
+    "actual": 982,
+    "priorForecast": 1007
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -9,
+    "actual": 1042,
+    "priorForecast": 1027
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -8,
+    "actual": 1036,
+    "priorForecast": 1050
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -7,
+    "actual": 1076,
+    "priorForecast": 1054
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -6,
+    "actual": 1043,
+    "priorForecast": 1037
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -5,
+    "actual": 998,
+    "priorForecast": 1013
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -4,
+    "actual": 995,
+    "priorForecast": 1005
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -3,
+    "actual": 1048,
+    "priorForecast": 1020
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -2,
+    "actual": 1032,
+    "priorForecast": 1045
+  },
+  {
+    "skuId": "variety-8-pack",
+    "weekOffset": -1,
+    "actual": 1063,
+    "priorForecast": 1056
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -78,
+    "actual": 916,
+    "priorForecast": 884
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -77,
+    "actual": 857,
+    "priorForecast": 899
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -76,
+    "actual": 925,
+    "priorForecast": 916
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -75,
+    "actual": 901,
+    "priorForecast": 933
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -74,
+    "actual": 930,
+    "priorForecast": 950
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -73,
+    "actual": 1010,
+    "priorForecast": 968
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -72,
+    "actual": 950,
+    "priorForecast": 985
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -71,
+    "actual": 1008,
+    "priorForecast": 1002
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -70,
+    "actual": 976,
+    "priorForecast": 1018
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -69,
+    "actual": 1049,
+    "priorForecast": 1033
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -68,
+    "actual": 1077,
+    "priorForecast": 1047
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -67,
+    "actual": 1059,
+    "priorForecast": 1060
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -66,
+    "actual": 1109,
+    "priorForecast": 1072
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -65,
+    "actual": 1126,
+    "priorForecast": 1082
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -64,
+    "actual": 1059,
+    "priorForecast": 1090
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -63,
+    "actual": 1069,
+    "priorForecast": 1096
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -62,
+    "actual": 1136,
+    "priorForecast": 1101
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -61,
+    "actual": 1092,
+    "priorForecast": 1103
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -60,
+    "actual": 1131,
+    "priorForecast": 1104
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -59,
+    "actual": 1105,
+    "priorForecast": 1103
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -58,
+    "actual": 1080,
+    "priorForecast": 1099
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -57,
+    "actual": 1111,
+    "priorForecast": 1094
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -56,
+    "actual": 1067,
+    "priorForecast": 1087
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -55,
+    "actual": 1061,
+    "priorForecast": 1078
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -54,
+    "actual": 1058,
+    "priorForecast": 1068
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -53,
+    "actual": 1087,
+    "priorForecast": 1056
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -52,
+    "actual": 1096,
+    "priorForecast": 1044
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -51,
+    "actual": 983,
+    "priorForecast": 1030
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -50,
+    "actual": 1030,
+    "priorForecast": 1016
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -49,
+    "actual": 1021,
+    "priorForecast": 1001
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -48,
+    "actual": 1027,
+    "priorForecast": 985
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -47,
+    "actual": 943,
+    "priorForecast": 970
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -46,
+    "actual": 909,
+    "priorForecast": 955
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -45,
+    "actual": 952,
+    "priorForecast": 940
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -44,
+    "actual": 967,
+    "priorForecast": 926
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -43,
+    "actual": 933,
+    "priorForecast": 913
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -42,
+    "actual": 876,
+    "priorForecast": 901
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -41,
+    "actual": 932,
+    "priorForecast": 891
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -40,
+    "actual": 873,
+    "priorForecast": 881
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -39,
+    "actual": 845,
+    "priorForecast": 874
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -38,
+    "actual": 831,
+    "priorForecast": 868
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -37,
+    "actual": 858,
+    "priorForecast": 864
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -36,
+    "actual": 888,
+    "priorForecast": 862
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -35,
+    "actual": 877,
+    "priorForecast": 862
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -34,
+    "actual": 886,
+    "priorForecast": 865
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -33,
+    "actual": 910,
+    "priorForecast": 869
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -32,
+    "actual": 867,
+    "priorForecast": 875
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -31,
+    "actual": 905,
+    "priorForecast": 883
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -30,
+    "actual": 857,
+    "priorForecast": 893
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -29,
+    "actual": 883,
+    "priorForecast": 905
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -28,
+    "actual": 955,
+    "priorForecast": 918
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -27,
+    "actual": 957,
+    "priorForecast": 933
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -26,
+    "actual": 963,
+    "priorForecast": 949
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -25,
+    "actual": 969,
+    "priorForecast": 966
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -24,
+    "actual": 987,
+    "priorForecast": 984
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -23,
+    "actual": 998,
+    "priorForecast": 1002
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -22,
+    "actual": 1038,
+    "priorForecast": 1020
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -21,
+    "actual": 1065,
+    "priorForecast": 1039
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -20,
+    "actual": 1041,
+    "priorForecast": 1057
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -19,
+    "actual": 1084,
+    "priorForecast": 1075
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -18,
+    "actual": 1044,
+    "priorForecast": 1093
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -17,
+    "actual": 1076,
+    "priorForecast": 1109
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -16,
+    "actual": 1127,
+    "priorForecast": 1124
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -15,
+    "actual": 1167,
+    "priorForecast": 1138
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -14,
+    "actual": 1105,
+    "priorForecast": 1150
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -13,
+    "actual": 1105,
+    "priorForecast": 1072
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -12,
+    "actual": 1015,
+    "priorForecast": 1049
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -11,
+    "actual": 1038,
+    "priorForecast": 1028
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -10,
+    "actual": 1004,
+    "priorForecast": 1026
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -9,
+    "actual": 1077,
+    "priorForecast": 1047
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -8,
+    "actual": 1034,
+    "priorForecast": 1070
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -7,
+    "actual": 1062,
+    "priorForecast": 1075
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -6,
+    "actual": 1041,
+    "priorForecast": 1057
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -5,
+    "actual": 1026,
+    "priorForecast": 1032
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -4,
+    "actual": 996,
+    "priorForecast": 1024
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -3,
+    "actual": 1056,
+    "priorForecast": 1040
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -2,
+    "actual": 1071,
+    "priorForecast": 1065
+  },
+  {
+    "skuId": "variety-12-pack",
+    "weekOffset": -1,
+    "actual": 1047,
+    "priorForecast": 1076
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -78,
+    "actual": 540,
+    "priorForecast": 547
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -77,
+    "actual": 576,
+    "priorForecast": 557
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -76,
+    "actual": 587,
+    "priorForecast": 567
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -75,
+    "actual": 602,
+    "priorForecast": 578
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -74,
+    "actual": 603,
+    "priorForecast": 588
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -73,
+    "actual": 588,
+    "priorForecast": 599
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -72,
+    "actual": 585,
+    "priorForecast": 610
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -71,
+    "actual": 649,
+    "priorForecast": 620
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -70,
+    "actual": 652,
+    "priorForecast": 630
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -69,
+    "actual": 644,
+    "priorForecast": 640
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -68,
+    "actual": 636,
+    "priorForecast": 648
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -67,
+    "actual": 644,
+    "priorForecast": 656
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -66,
+    "actual": 683,
+    "priorForecast": 664
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -65,
+    "actual": 684,
+    "priorForecast": 670
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -64,
+    "actual": 664,
+    "priorForecast": 675
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -63,
+    "actual": 669,
+    "priorForecast": 679
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -62,
+    "actual": 712,
+    "priorForecast": 681
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -61,
+    "actual": 671,
+    "priorForecast": 683
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -60,
+    "actual": 674,
+    "priorForecast": 683
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -59,
+    "actual": 705,
+    "priorForecast": 683
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -58,
+    "actual": 686,
+    "priorForecast": 680
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -57,
+    "actual": 706,
+    "priorForecast": 677
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -56,
+    "actual": 654,
+    "priorForecast": 673
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -55,
+    "actual": 682,
+    "priorForecast": 667
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -54,
+    "actual": 674,
+    "priorForecast": 661
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -53,
+    "actual": 673,
+    "priorForecast": 654
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -52,
+    "actual": 645,
+    "priorForecast": 646
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -51,
+    "actual": 625,
+    "priorForecast": 638
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -50,
+    "actual": 615,
+    "priorForecast": 629
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -49,
+    "actual": 609,
+    "priorForecast": 619
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -48,
+    "actual": 638,
+    "priorForecast": 610
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -47,
+    "actual": 627,
+    "priorForecast": 601
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -46,
+    "actual": 582,
+    "priorForecast": 591
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -45,
+    "actual": 564,
+    "priorForecast": 582
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -44,
+    "actual": 586,
+    "priorForecast": 573
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -43,
+    "actual": 582,
+    "priorForecast": 565
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -42,
+    "actual": 585,
+    "priorForecast": 558
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -41,
+    "actual": 538,
+    "priorForecast": 551
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -40,
+    "actual": 533,
+    "priorForecast": 546
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -39,
+    "actual": 560,
+    "priorForecast": 541
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -38,
+    "actual": 548,
+    "priorForecast": 537
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -37,
+    "actual": 556,
+    "priorForecast": 535
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -36,
+    "actual": 543,
+    "priorForecast": 534
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -35,
+    "actual": 546,
+    "priorForecast": 534
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -34,
+    "actual": 534,
+    "priorForecast": 535
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -33,
+    "actual": 518,
+    "priorForecast": 538
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -32,
+    "actual": 561,
+    "priorForecast": 542
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -31,
+    "actual": 534,
+    "priorForecast": 547
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -30,
+    "actual": 557,
+    "priorForecast": 553
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -29,
+    "actual": 546,
+    "priorForecast": 560
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -28,
+    "actual": 545,
+    "priorForecast": 568
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -27,
+    "actual": 580,
+    "priorForecast": 578
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -26,
+    "actual": 595,
+    "priorForecast": 587
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -25,
+    "actual": 598,
+    "priorForecast": 598
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -24,
+    "actual": 626,
+    "priorForecast": 609
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -23,
+    "actual": 611,
+    "priorForecast": 620
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -22,
+    "actual": 635,
+    "priorForecast": 632
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -21,
+    "actual": 625,
+    "priorForecast": 643
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -20,
+    "actual": 629,
+    "priorForecast": 655
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -19,
+    "actual": 672,
+    "priorForecast": 666
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -18,
+    "actual": 648,
+    "priorForecast": 676
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -17,
+    "actual": 667,
+    "priorForecast": 686
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -16,
+    "actual": 714,
+    "priorForecast": 696
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -15,
+    "actual": 698,
+    "priorForecast": 704
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -14,
+    "actual": 724,
+    "priorForecast": 712
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -13,
+    "actual": 663,
+    "priorForecast": 663
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -12,
+    "actual": 655,
+    "priorForecast": 650
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -11,
+    "actual": 624,
+    "priorForecast": 636
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -10,
+    "actual": 625,
+    "priorForecast": 635
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -9,
+    "actual": 632,
+    "priorForecast": 648
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -8,
+    "actual": 671,
+    "priorForecast": 663
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -7,
+    "actual": 655,
+    "priorForecast": 665
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -6,
+    "actual": 643,
+    "priorForecast": 654
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -5,
+    "actual": 655,
+    "priorForecast": 639
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -4,
+    "actual": 619,
+    "priorForecast": 634
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -3,
+    "actual": 648,
+    "priorForecast": 644
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -2,
+    "actual": 655,
+    "priorForecast": 659
+  },
+  {
+    "skuId": "seasonal-summer-pack",
+    "weekOffset": -1,
+    "actual": 674,
+    "priorForecast": 666
+  }
+]
