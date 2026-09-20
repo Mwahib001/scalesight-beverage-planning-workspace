@@ -1,4 +1,3 @@
 import { WorkspacePage } from "@/components/workspace-page";
-export default function ManagedIntelligencePage() {
-  return <WorkspacePage view="managed" />;
-}
+export const metadata = { title: "Managed Intelligence" };
+export default function Page() { return <WorkspacePage view="managed" />; }

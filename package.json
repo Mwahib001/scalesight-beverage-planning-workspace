@@ -1,12 +1,14 @@
 {
-  "name": "demo",
+  "name": "scalesight-beverage-planning",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "node scripts/check.cjs"
   },
   "dependencies": {
     "lucide-react": "^1.45.0",

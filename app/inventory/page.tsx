@@ -1,2 +1,2 @@
-import { WorkspacePage } from "@/components/workspace-page";
-export default function InventoryPage() { return <WorkspacePage view="inventory" />; }
+import { redirect } from "next/navigation";
+export default function Page() { redirect("/inventory-production"); }

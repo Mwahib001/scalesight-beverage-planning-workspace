@@ -1,5 +1,3 @@
 import { WorkspacePage } from "@/components/workspace-page";
-
-export default function Home() {
-  return <WorkspacePage view="weekly" />;
-}
+export const metadata = { title: "Weekly Planning Brief" };
+export default function Page() { return <WorkspacePage view="weekly" />; }

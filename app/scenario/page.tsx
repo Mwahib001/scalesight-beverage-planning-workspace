@@ -1,4 +1,2 @@
-import { WorkspacePage } from "@/components/workspace-page";
-export default function ScenarioPage() {
-  return <WorkspacePage view="scenario" />;
-}
+import { redirect } from "next/navigation";
+export default function Page() { redirect("/scenario-planning"); }

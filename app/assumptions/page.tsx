@@ -1,4 +1,3 @@
 import { WorkspacePage } from "@/components/workspace-page";
-export default function AssumptionsPage() {
-  return <WorkspacePage view="assumptions" />;
-}
+export const metadata = { title: "Assumptions" };
+export default function Page() { return <WorkspacePage view="assumptions" />; }

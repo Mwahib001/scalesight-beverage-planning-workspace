@@ -1,4 +1,2 @@
-import { WorkspacePage } from "@/components/workspace-page";
-export default function ForecastPage() {
-  return <WorkspacePage view="forecast" />;
-}
+import { redirect } from "next/navigation";
+export default function Page() { redirect("/demand-forecast"); }
