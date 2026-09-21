@@ -23,3 +23,14 @@ button,input,select { font:inherit; } button,a,input,select,summary { -webkit-ta
   .executive-document .decision-copy { font-size:11px; margin:6px 0 10px; }
   .print-footer { z-index:9999; }
 }
+
+/* Supplied ScaleSight lockup: preserve the full artwork and its aspect ratio. */
+.brand-logo { display:block; width:100%; height:auto; }
+.brand { align-items:flex-start; padding:0 0 24px; }
+.brand-lockup { flex:1; min-width:0; }
+.brand-lockup>a { display:block; }
+.brand-lockup p { margin:9px 0 0; text-align:center; font-size:10px; }
+.mobile-wordmark>a { display:block; width:190px; max-width:100%; }
+.report-logo { width:240px; max-width:100%; margin-bottom:24px; }
+.service-logo { width:280px; max-width:100%; margin-bottom:24px; }
+@media print { .report-logo { width:200px; print-color-adjust:exact; -webkit-print-color-adjust:exact; } }

@@ -54,7 +54,7 @@ Existing inventory, forecast, scenario and legacy brief URLs redirect to their c
 
 ## Branding and contact
 
-A temporary ScaleSight SVG wordmark, icon and generated Open Graph image are included. Replace them with approved brand assets when available. The service CTA deliberately displays “Demo only - contact form not connected” until `settings.contactEmail` is populated in `data/planning.ts`. No form is submitted.
+The supplied `public/logos/scalesight coloured primary logo.svg` lockup is used in the sidebar, mobile header, Managed Intelligence section, executive report and generated Open Graph image. Its original colors and aspect ratio are preserved. The service CTA deliberately displays “Demo only - contact form not connected” until `settings.contactEmail` is populated in `data/planning.ts`. No form is submitted.
 
 The demo uses `noindex, nofollow` metadata. No analytics identifiers or storage keys are configured.
 
