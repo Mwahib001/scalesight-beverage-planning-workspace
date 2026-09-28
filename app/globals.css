@@ -12,8 +12,8 @@ button,input,select { font:inherit; } button,a,input,select,summary { -webkit-ta
 
 .contents { display:contents; } .mobile-wordmark { display:none; } .button:disabled { cursor:default; opacity:.7; }
 @media(max-width:800px) { .mobile-wordmark { display:flex; flex-wrap:wrap; gap:4px 12px; align-items:center; padding-bottom:12px; margin-bottom:8px; border-bottom:1px solid var(--border); } .mobile-wordmark strong { font-size:19px; letter-spacing:-.7px; } .mobile-wordmark>span { font-size:10px; color:var(--muted); } }
-/* Keep server-rendered chart placeholders inside narrow cards until hydration measures them. */
-.chart-box .recharts-wrapper, .chart-box .recharts-surface { max-width:100%; }
+/* Recharts measures the wrapper itself; its zero-width sizing parent must not constrain it. */
+.chart-box .recharts-surface { max-width:100%; }
 @media print { .table-scroll { overflow:visible; } .table-scroll table { min-width:0; width:100%; } th,td { padding:8px; } .mobile-wordmark { display:none; } }
 @media print {
   .document-section { break-before:auto; margin-bottom:16px; }
